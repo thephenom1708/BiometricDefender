@@ -18,7 +18,7 @@ which will result into our final biometric template which is stored into the dat
   2. Template Database (TDB)
   3. Key Database (KDB)
   4. Authentication Server (AS).
-CS will convert the original biometric into template (distortion + key binding) and then
+* CS will convert the original biometric into template (distortion + key binding) and then
 storing it to TDB during registration. KDB will be on cloud which will store the key of
 users. CS will also convert the fresh biometric into the template form which will be
 compared with the template of that person stored in TDB. This comparison will be done
@@ -31,5 +31,7 @@ new biometric for that person by different distortion technique.
 person’s biometric information is never compromised and inspite of not storing the
 original biometric the system will provide a foolproof and secure multi factor
 authentication system.
+
+![]()
 
 
