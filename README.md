@@ -32,6 +32,6 @@ person’s biometric information is never compromised and inspite of not storing
 original biometric the system will provide a foolproof and secure multi factor
 authentication system.
 
-![]()
+![](https://github.com/thephenom1708/BiometricDefender/blob/master/biometrics.png)
 
 
